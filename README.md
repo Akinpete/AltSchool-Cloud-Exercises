@@ -1,2 +1,1 @@
 # AltSchool Assignment
-
